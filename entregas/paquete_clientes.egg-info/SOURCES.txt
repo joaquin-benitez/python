@@ -1,0 +1,9 @@
+setup.py
+entregas/paquete_clientes.egg-info/PKG-INFO
+entregas/paquete_clientes.egg-info/SOURCES.txt
+entregas/paquete_clientes.egg-info/dependency_links.txt
+entregas/paquete_clientes.egg-info/top_level.txt
+entregas/pre_entrega1/1raPreEntrega.py
+entregas/pre_entrega1/__init__.py
+entregas/pre_entrega2/Clientes.py
+entregas/pre_entrega2/__init__.py
